@@ -1,0 +1,30 @@
+{
+  "profiles": {
+    "budget-backpacker": {
+      "prioritize": ["cheap", "free", "local-experience", "budget-friendly", "street-food"],
+      "avoid": ["upscale", "fine-dining", "expensive"],
+      "maxItems": 7
+    },
+    "foodie": {
+      "prioritize": ["food", "local-favorite", "signature-dish", "street-food"],
+      "requireAtLeast": 3,
+      "maxItems": 7
+    },
+    "culture-buff": {
+      "prioritize": ["historical", "art", "museum", "architecture", "hidden-gem"],
+      "includeHiddenGems": true,
+      "maxItems": 7
+    },
+    "first-timer": {
+      "prioritize": ["must-see", "landmark", "iconic"],
+      "minimumMustSees": 2,
+      "balanceWith": ["food", "local-experience"],
+      "maxItems": 6
+    },
+    "business": {
+      "prioritize": ["upscale", "fine-dining", "impressive", "architecture", "cafes"],
+      "preferEvening": true,
+      "maxItems": 5
+    }
+  }
+}

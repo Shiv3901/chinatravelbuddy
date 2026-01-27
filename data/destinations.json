@@ -1,0 +1,509 @@
+{
+  "beijing": [
+    {
+      "id": "forbidden-city",
+      "name": "Forbidden City",
+      "type": "historical",
+      "description": "The Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty. It served as the home of emperors and their households, as well as the ceremonial and political center of Chinese government for almost 500 years. With 980 buildings and over 8,000 rooms, it's the world's largest palace complex.",
+      "timeNeeded": "3-4 hours",
+      "cost": "¥60 (~$8 USD)",
+      "bestTime": "Early morning (8-10am)",
+      "coordinates": { "lat": 39.9163, "lng": 116.3972 },
+      "howToGetThere": "Metro Line 1 to Tiananmen East",
+      "hours": "8:30am - 5pm (closed Mondays)",
+      "tags": ["must-see", "historical", "photography"],
+      "bestFor": ["first-timer", "culture-buff"],
+      "proTips": [
+        "Book tickets online 10 days in advance on the official website",
+        "Avoid Chinese national holidays - massive crowds of 80,000+ visitors",
+        "Audio guide worth the extra ¥40 for historical context",
+        "Enter from the south (Meridian Gate) and exit north for the natural flow"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "first-timer": "An absolute must-see for any first visit to Beijing. The scale and preservation are unmatched anywhere in the world.",
+        "culture-buff": "500 years of imperial history contained within perfectly preserved Ming dynasty architecture. Every courtyard tells a story."
+      }
+    },
+    {
+      "id": "great-wall-mutianyu",
+      "name": "Great Wall (Mutianyu Section)",
+      "type": "historical",
+      "description": "Less crowded than the popular Badaling section, Mutianyu offers a more authentic Great Wall experience with cable car access and a fun toboggan ride down. The wall here is well-restored with 23 watchtowers along a 5.4km stretch, surrounded by lush forest.",
+      "timeNeeded": "Half day (4-5 hours including travel)",
+      "cost": "¥45 entrance + ¥100 round-trip cable car",
+      "bestTime": "Spring or autumn, weekday mornings",
+      "coordinates": { "lat": 40.4319, "lng": 116.5704 },
+      "howToGetThere": "Bus 916 from Dongzhimen, then transfer bus, or book a private tour",
+      "hours": "7:30am - 6pm (summer), 8am - 5pm (winter)",
+      "tags": ["must-see", "outdoor", "photography", "hiking"],
+      "bestFor": ["first-timer", "culture-buff", "budget-backpacker"],
+      "proTips": [
+        "Take the cable car up and toboggan down for a fun experience",
+        "Bring water and snacks - very expensive at the wall",
+        "Wear comfortable shoes - lots of steep, uneven stairs",
+        "Go early on a weekday to have sections almost to yourself"
+      ],
+      "neighborhood": "Huairou District (90 min from city center)",
+      "whyPick": {
+        "first-timer": "The Great Wall is a once-in-a-lifetime experience. Mutianyu is less crowded than Badaling and more scenic.",
+        "culture-buff": "Walk along a 600-year-old military fortification stretching across mountain ridges. Mutianyu has 23 original watchtowers.",
+        "budget-backpacker": "Reachable by public bus for under ¥20. Pack your own lunch and skip the cable car to keep costs minimal."
+      }
+    },
+    {
+      "id": "temple-of-heaven",
+      "name": "Temple of Heaven",
+      "type": "historical",
+      "description": "This stunning Ming dynasty temple complex is a UNESCO World Heritage site where emperors performed annual ceremonies of prayer for good harvests. The surrounding park is equally fascinating, filled with locals practicing tai chi, playing cards, and singing opera every morning.",
+      "timeNeeded": "2-3 hours",
+      "cost": "¥35 (¥15 park only)",
+      "bestTime": "Early morning to see locals doing tai chi",
+      "coordinates": { "lat": 39.8822, "lng": 116.4066 },
+      "howToGetThere": "Metro Line 5 to Tiantan Dongmen",
+      "hours": "6am - 9pm (park), 8am - 5:30pm (buildings)",
+      "tags": ["historical", "peaceful", "photography", "must-see"],
+      "bestFor": ["first-timer", "culture-buff"],
+      "proTips": [
+        "Visit early morning (6-7am) to see locals doing tai chi and group dancing",
+        "The park-only ticket is great if you're on a budget",
+        "The Echo Wall and Circular Mound Altar are worth exploring",
+        "Combine with a visit to the Pearl Market nearby"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "first-timer": "The Hall of Prayer for Good Harvests is one of Beijing's most iconic structures. Morning visits reveal authentic local life.",
+        "culture-buff": "Where emperors communicated with Heaven. The acoustic design of the Echo Wall is an engineering marvel."
+      }
+    },
+    {
+      "id": "798-art-district",
+      "name": "798 Art District",
+      "type": "culture",
+      "description": "A former military factory complex transformed into Beijing's contemporary art hub. Home to galleries, artist studios, design shops, and trendy cafes housed in Bauhaus-style industrial buildings. It's where you'll find cutting-edge Chinese contemporary art and a vibrant creative community.",
+      "timeNeeded": "2-3 hours",
+      "cost": "Free (individual galleries may charge ¥10-50)",
+      "bestTime": "Afternoon, Tuesday-Sunday",
+      "coordinates": { "lat": 39.9838, "lng": 116.4946 },
+      "howToGetThere": "Bus 401 or taxi from Wangjing area",
+      "hours": "10am - 6pm (most galleries closed Mondays)",
+      "tags": ["hidden-gem", "art", "photography", "free"],
+      "bestFor": ["culture-buff", "budget-backpacker"],
+      "proTips": [
+        "UCCA Center for Contemporary Art is the highlight - don't miss it",
+        "Most galleries are free, only special exhibitions charge",
+        "Great street art and photo opportunities in the alleyways",
+        "Visit on weekdays to avoid crowds"
+      ],
+      "neighborhood": "Chaoyang District",
+      "whyPick": {
+        "culture-buff": "Beijing's answer to Brooklyn's art scene. Cutting-edge Chinese contemporary art in converted industrial spaces.",
+        "budget-backpacker": "Free to explore with incredible photo opportunities. Grab a cheap coffee and spend an afternoon gallery-hopping."
+      }
+    },
+    {
+      "id": "hutong-walk",
+      "name": "Nanluoguxiang Hutong",
+      "type": "neighborhood",
+      "description": "One of Beijing's oldest and best-preserved hutong neighborhoods, this charming alleyway is lined with traditional courtyard homes, quirky boutiques, street food vendors, and cozy cafes. It's the perfect place to experience old Beijing's neighborhood culture.",
+      "timeNeeded": "2-3 hours",
+      "cost": "Free to walk (budget ¥50-100 for food/shopping)",
+      "bestTime": "Late afternoon into evening",
+      "coordinates": { "lat": 39.9370, "lng": 116.4030 },
+      "howToGetThere": "Metro Line 6 or 8 to Nanluoguxiang",
+      "hours": "Always open (shops typically 10am-10pm)",
+      "tags": ["hidden-gem", "local-experience", "free", "food"],
+      "bestFor": ["first-timer", "foodie", "budget-backpacker"],
+      "proTips": [
+        "Wander off the main lane into side alleys for a more authentic experience",
+        "Try the local yogurt drink in ceramic pots",
+        "Visit on weekday evenings to avoid weekend tourist crowds",
+        "Combine with a visit to the Drum and Bell Towers nearby"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "first-timer": "Experience the soul of old Beijing. Hutongs are traditional alleyways that showcase 700+ years of neighborhood culture.",
+        "foodie": "Street food heaven with local snacks, artisan ice cream, and traditional Beijing yogurt. Great for grazing.",
+        "budget-backpacker": "Free to explore with cheap street food everywhere. A quintessential Beijing experience that costs almost nothing."
+      }
+    },
+    {
+      "id": "lama-temple",
+      "name": "Lama Temple (Yonghe Temple)",
+      "type": "religious",
+      "description": "Beijing's most spectacular Buddhist temple and an active place of worship. Originally an imperial palace, it was converted to a Tibetan Buddhist monastery. The highlight is an 18-meter Buddha statue carved from a single piece of white sandalwood.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥25",
+      "bestTime": "Morning, when incense fills the air",
+      "coordinates": { "lat": 39.9474, "lng": 116.4177 },
+      "howToGetThere": "Metro Line 2 or 5 to Yonghegong Lama Temple",
+      "hours": "9am - 4:30pm",
+      "tags": ["hidden-gem", "spiritual", "peaceful", "historical"],
+      "bestFor": ["culture-buff", "budget-backpacker"],
+      "proTips": [
+        "Free incense is provided at the entrance - no need to buy from vendors",
+        "The 18m sandalwood Buddha in the last hall is breathtaking",
+        "Combine with nearby Confucius Temple for a two-temple morning",
+        "Visit on weekdays for a more peaceful experience"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "culture-buff": "A living, breathing Tibetan Buddhist monastery in the heart of Beijing. The architecture and giant sandalwood Buddha are extraordinary.",
+        "budget-backpacker": "At just ¥25, it's one of Beijing's best value attractions. The free incense and peaceful atmosphere are priceless."
+      }
+    },
+    {
+      "id": "jingshan-park",
+      "name": "Jingshan Park",
+      "type": "outdoor",
+      "description": "An artificial hill created from earth excavated during the construction of the Forbidden City moat. From the top, you get the most stunning panoramic view of the Forbidden City's golden rooftops - an absolutely iconic Beijing vista, especially at sunset.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥2",
+      "bestTime": "Sunset for golden hour photography",
+      "coordinates": { "lat": 39.9254, "lng": 116.3965 },
+      "howToGetThere": "Walk north from Forbidden City exit gate",
+      "hours": "6am - 9pm",
+      "tags": ["hidden-gem", "photography", "cheap", "outdoor"],
+      "bestFor": ["first-timer", "budget-backpacker"],
+      "proTips": [
+        "Visit right after the Forbidden City - it's directly north of the exit",
+        "Sunset is the best time for photos of the golden rooftops",
+        "The climb is short (about 10 minutes) but steep",
+        "At ¥2, it's the best value view in all of Beijing"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "first-timer": "The best panoramic view of the Forbidden City. At ¥2, it's an absolute steal and perfect after visiting the palace.",
+        "budget-backpacker": "Beijing's best view for just ¥2. Combine with the Forbidden City visit for a perfect half-day itinerary."
+      }
+    },
+    {
+      "id": "gui-street",
+      "name": "Gui Street (Ghost Street)",
+      "type": "food",
+      "description": "Beijing's most famous food street stretches over a kilometer and is lined with hundreds of restaurants, each decorated with red lanterns that glow at night. Famous for spicy crayfish, hot pot, and late-night dining. The atmosphere is electric, especially on weekend evenings.",
+      "timeNeeded": "2-3 hours",
+      "cost": "¥50-100 per person",
+      "bestTime": "Evening (busiest and best atmosphere after 7pm)",
+      "coordinates": { "lat": 39.9399, "lng": 116.4256 },
+      "howToGetThere": "Metro Line 5 to Beixinqiao, then walk east",
+      "hours": "Most restaurants open 11am - 2am",
+      "tags": ["food", "local-experience", "budget-friendly", "nightlife"],
+      "bestFor": ["foodie", "budget-backpacker", "first-timer"],
+      "proTips": [
+        "Try the famous Hu Da spicy crayfish - locals line up for it",
+        "Go after 8pm for the best atmosphere with all the lanterns lit",
+        "Prices are reasonable despite the tourist reputation",
+        "The street is nearly 1km long - walk the full length before choosing"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "foodie": "Beijing's ultimate food destination. A kilometer of restaurants under red lanterns. The spicy crayfish alone is worth the trip.",
+        "budget-backpacker": "Affordable and filling meals in an incredible atmosphere. ¥50 gets you a feast here.",
+        "first-timer": "An unforgettable sensory experience - hundreds of red lanterns, sizzling woks, and the energy of Beijing's food culture."
+      }
+    },
+    {
+      "id": "dadong-roast-duck",
+      "name": "Da Dong Roast Duck",
+      "type": "food",
+      "description": "A modern, upscale take on Beijing's signature dish. Da Dong's roast duck has thinner, crispier skin than traditional versions, and the restaurant's sleek interior is a far cry from old-school duck houses. Less touristy than Quanjude and widely considered to serve the best duck in Beijing.",
+      "timeNeeded": "2 hours",
+      "cost": "¥200-300 per person",
+      "bestTime": "Lunch or dinner (book at least 1 day ahead)",
+      "coordinates": { "lat": 39.9150, "lng": 116.4600 },
+      "howToGetThere": "Multiple locations - Jinbao Place branch most popular",
+      "hours": "11am - 10pm",
+      "tags": ["food", "signature-dish", "mid-range", "must-see"],
+      "bestFor": ["foodie", "first-timer", "business"],
+      "proTips": [
+        "Reserve at least a day in advance, especially for dinner",
+        "Order the signature roast duck and ask for the 'lean' style",
+        "The artistic plating is part of the experience",
+        "Multiple locations - Jinbao Place is the flagship"
+      ],
+      "neighborhood": "Various (flagship in Dongcheng)",
+      "whyPick": {
+        "foodie": "Beijing's best Peking duck, reinvented. Da Dong's crispy, paper-thin skin technique is a culinary masterpiece.",
+        "first-timer": "You can't visit Beijing without trying Peking duck. Da Dong is the modern gold standard.",
+        "business": "Impressive venue for client dinners. Modern ambiance with Beijing's most famous dish done to perfection."
+      }
+    },
+    {
+      "id": "wangfujing-snack-street",
+      "name": "Wangfujing Snack Street",
+      "type": "food",
+      "description": "The most famous (and touristy) street food market in Beijing. While locals debate its authenticity, it's a fun experience with adventurous options like scorpions on sticks alongside more approachable snacks. The adjacent Wangfujing shopping street is one of Beijing's most famous commercial areas.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥50-100",
+      "bestTime": "Evening for the full spectacle",
+      "coordinates": { "lat": 39.9142, "lng": 116.4100 },
+      "howToGetThere": "Metro Line 1 to Wangfujing",
+      "hours": "9:30am - 10pm",
+      "tags": ["food", "street-food", "touristy"],
+      "bestFor": ["foodie", "first-timer"],
+      "proTips": [
+        "It's touristy but still fun for the experience and photos",
+        "Scorpion-on-a-stick is more for photos than flavor",
+        "Better authentic food options at nearby Donghuamen Night Market",
+        "Combine with shopping on the main Wangfujing pedestrian street"
+      ],
+      "neighborhood": "Dongcheng District",
+      "whyPick": {
+        "foodie": "A must-visit for the sheer variety and spectacle, even if locals call it touristy. Try the lamb skewers and candied hawthorn.",
+        "first-timer": "The quintessential Beijing street food experience. Adventurous options galore, but plenty of approachable choices too."
+      }
+    }
+  ],
+  "shanghai": [
+    {
+      "id": "the-bund",
+      "name": "The Bund",
+      "type": "landmark",
+      "description": "Shanghai's iconic waterfront promenade stretches along the Huangpu River, offering stunning views of the futuristic Pudong skyline on one side and grand colonial-era buildings on the other. It's the perfect introduction to Shanghai's unique blend of East meets West.",
+      "timeNeeded": "2-3 hours",
+      "cost": "Free",
+      "bestTime": "Evening for lights, early morning for peace",
+      "coordinates": { "lat": 31.2400, "lng": 121.4900 },
+      "howToGetThere": "Metro Line 2 or 10 to East Nanjing Road, walk east",
+      "hours": "Always open",
+      "tags": ["must-see", "photography", "free", "landmark"],
+      "bestFor": ["first-timer", "budget-backpacker"],
+      "proTips": [
+        "Visit at night when Pudong's skyscrapers light up - absolutely stunning",
+        "Walk early morning (6am) for photos without crowds",
+        "Take the cheap Huangpu River ferry (¥2) for a budget cruise experience",
+        "Walk the full 1.5km promenade from north to south"
+      ],
+      "neighborhood": "Huangpu District",
+      "whyPick": {
+        "first-timer": "The most iconic view in Shanghai. Colonial architecture on one side, futuristic skyline on the other. Absolutely unmissable.",
+        "budget-backpacker": "Free to walk and the ¥2 ferry across the river is the world's cheapest scenic cruise."
+      }
+    },
+    {
+      "id": "yu-garden",
+      "name": "Yu Garden (Yuyuan)",
+      "type": "garden",
+      "description": "A classical Chinese garden dating back to the Ming dynasty, tucked away in Shanghai's old town. With its rockeries, pavilions, ponds, and dragon walls, it's a serene escape from the modern city. The surrounding bazaar area has traditional architecture and street food.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥40",
+      "bestTime": "Early morning to avoid crowds (opens 8:30am)",
+      "coordinates": { "lat": 31.2275, "lng": 121.4920 },
+      "howToGetThere": "Metro Line 10 to Yuyuan Garden",
+      "hours": "8:30am - 5pm",
+      "tags": ["must-see", "historical", "peaceful", "garden"],
+      "bestFor": ["first-timer", "culture-buff"],
+      "proTips": [
+        "Arrive right at opening (8:30am) to enjoy relative peace",
+        "The Exquisite Jade Rock is the garden's most prized feature",
+        "Explore the surrounding bazaar for souvenirs and snacks",
+        "Combine with nearby Yuyuan Bazaar street food"
+      ],
+      "neighborhood": "Huangpu District (Old Town)",
+      "whyPick": {
+        "first-timer": "A peaceful 400-year-old garden in the heart of Shanghai's old town. Perfect contrast to the modern skyline.",
+        "culture-buff": "Ming dynasty garden design at its finest. Every rock, pavilion, and pond is placed with intentional symbolism."
+      }
+    },
+    {
+      "id": "shanghai-tower",
+      "name": "Shanghai Tower Observatory",
+      "type": "viewpoint",
+      "description": "The world's second-tallest building at 632 meters offers a breathtaking 360-degree panoramic view of Shanghai from its observation deck on the 118th floor. On clear days, you can see for miles. The world's highest observation deck gives you a true bird's-eye view of this massive city.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥180",
+      "bestTime": "Sunset (book specific time slot online)",
+      "coordinates": { "lat": 31.2356, "lng": 121.5016 },
+      "howToGetThere": "Metro Line 2 to Lujiazui",
+      "hours": "8:30am - 10pm",
+      "tags": ["must-see", "modern", "photography", "viewpoint"],
+      "bestFor": ["first-timer"],
+      "proTips": [
+        "Book sunset time slot online in advance for the best experience",
+        "Check weather - cloudy days severely limit visibility",
+        "The world's fastest elevator gets you up in under a minute",
+        "Also visit the free Sky Garden on the 37th floor"
+      ],
+      "neighborhood": "Pudong (Lujiazui)",
+      "whyPick": {
+        "first-timer": "See all of Shanghai from 580 meters up. The sunset views from the world's highest observation deck are unforgettable."
+      }
+    },
+    {
+      "id": "tianzifang",
+      "name": "Tianzifang",
+      "type": "neighborhood",
+      "description": "A maze of narrow alleyways in the French Concession area, converted into a charming arts and crafts enclave. Browse independent boutiques, art studios, and cozy cafes tucked into renovated shikumen (stone gate) houses. It's artsy, photogenic, and perfect for aimless wandering.",
+      "timeNeeded": "2-3 hours",
+      "cost": "Free to walk (budget for shopping/food)",
+      "bestTime": "Afternoon",
+      "coordinates": { "lat": 31.2103, "lng": 121.4689 },
+      "howToGetThere": "Metro Line 9 to Dapuqiao",
+      "hours": "Most shops 10am - 10pm",
+      "tags": ["hidden-gem", "shopping", "art", "cafes"],
+      "bestFor": ["culture-buff", "budget-backpacker"],
+      "proTips": [
+        "Get lost on purpose - the best finds are in the deepest alleys",
+        "Haggle at shops but not at cafes or restaurants",
+        "Visit on a weekday to avoid the worst crowds",
+        "Some of the upper-floor studios have the most unique items"
+      ],
+      "neighborhood": "Huangpu District (French Concession area)",
+      "whyPick": {
+        "culture-buff": "Shanghai's creative heart. Artisan studios, indie boutiques, and charming cafes in historic shikumen lane houses.",
+        "budget-backpacker": "Free to explore with window shopping and people-watching. Grab a cheap coffee and soak up the atmosphere."
+      }
+    },
+    {
+      "id": "french-concession",
+      "name": "French Concession Walk",
+      "type": "neighborhood",
+      "description": "Shanghai's most charming neighborhood, with tree-lined avenues, European-style architecture, hip cafes, cocktail bars, and boutique shops. Former home to the French colonial administration, it now blends old-world charm with modern Shanghai cool. Perfect for a leisurely half-day stroll.",
+      "timeNeeded": "3-4 hours",
+      "cost": "Free to walk",
+      "bestTime": "Any time (cafes best mid-morning)",
+      "coordinates": { "lat": 31.2168, "lng": 121.4479 },
+      "howToGetThere": "Metro Line 1 to South Shaanxi Road or Line 10 to Shanghai Library",
+      "hours": "Always open",
+      "tags": ["hidden-gem", "architecture", "cafes", "free", "neighborhood"],
+      "bestFor": ["culture-buff", "business"],
+      "proTips": [
+        "Walk along Wukang Road for the best architecture",
+        "Stop at the Wukang Mansion (the Normandie Apartments) for a classic photo",
+        "Ferguson Lane has great cafes and restaurants",
+        "The area is walkable and perfect for getting lost in"
+      ],
+      "neighborhood": "Xuhui / Former French Concession",
+      "whyPick": {
+        "culture-buff": "Where Shanghai's colonial history meets modern creative culture. The architecture alone is worth half a day of wandering.",
+        "business": "Shanghai's most sophisticated neighborhood. Excellent cafes for informal meetings and upscale restaurants for dinners."
+      }
+    },
+    {
+      "id": "propaganda-poster-centre",
+      "name": "Propaganda Poster Art Centre",
+      "type": "museum",
+      "description": "A hidden gem tucked in the basement of a residential building, housing a fascinating private collection of original Chinese propaganda posters spanning from the 1940s to the 1980s. A unique and thought-provoking look at China's modern political history through art.",
+      "timeNeeded": "1 hour",
+      "cost": "¥25",
+      "bestTime": "Any time (call ahead to confirm opening hours)",
+      "coordinates": { "lat": 31.2090, "lng": 121.4380 },
+      "howToGetThere": "Metro Line 10 to Shanghai Library, then walk",
+      "hours": "10am - 5pm (closed some holidays, call ahead)",
+      "tags": ["hidden-gem", "history", "cheap", "museum", "art"],
+      "bestFor": ["culture-buff"],
+      "proTips": [
+        "Call ahead to confirm opening hours - it's a private collection",
+        "Hidden in the basement of a residential building - look for the signs",
+        "The owner sometimes gives personal tours and explanations",
+        "Posters are available for purchase as souvenirs"
+      ],
+      "neighborhood": "Xuhui District (French Concession area)",
+      "whyPick": {
+        "culture-buff": "One of Shanghai's most unique museums. Original propaganda art from the Mao era in a hidden basement gallery. Utterly fascinating."
+      }
+    },
+    {
+      "id": "fuxing-park",
+      "name": "Fuxing Park",
+      "type": "park",
+      "description": "A French-style park in the heart of the former French Concession, where every morning locals gather to practice tai chi, ballroom dance, play cards, and sing opera. It's a genuine slice of Shanghai daily life that most tourists miss.",
+      "timeNeeded": "1-2 hours",
+      "cost": "Free",
+      "bestTime": "Early morning (6-8am) for tai chi and dancing",
+      "coordinates": { "lat": 31.2185, "lng": 121.4680 },
+      "howToGetThere": "Metro Line 10 to Xintiandi, then walk south",
+      "hours": "6am - 6pm",
+      "tags": ["hidden-gem", "local-experience", "free", "outdoor"],
+      "bestFor": ["culture-buff", "budget-backpacker"],
+      "proTips": [
+        "Visit between 6-8am to see the full range of morning activities",
+        "Feel free to join the tai chi groups - they're welcoming",
+        "The park connects to the bar street area for evening visits",
+        "A perfect morning activity before exploring the French Concession"
+      ],
+      "neighborhood": "Huangpu District (French Concession area)",
+      "whyPick": {
+        "culture-buff": "See authentic Shanghai daily life. Morning tai chi, group dancing, and card games make this a living cultural experience.",
+        "budget-backpacker": "Free and genuinely local. Join the morning tai chi, then explore the French Concession right outside the gates."
+      }
+    },
+    {
+      "id": "yangs-dumpling",
+      "name": "Yang's Fry Dumpling (Xiao Yang Sheng Jian)",
+      "type": "food",
+      "description": "Shanghai's most famous street food: pan-fried soup dumplings (sheng jian bao) with crispy bottoms and juicy pork filling. There's always a queue, but it moves fast. At just ¥15 for four dumplings, it's one of the best food deals in Shanghai.",
+      "timeNeeded": "30 min - 1 hour",
+      "cost": "¥15-30",
+      "bestTime": "Off-peak hours (2-4pm) to avoid the longest queues",
+      "coordinates": { "lat": 31.2340, "lng": 121.4740 },
+      "howToGetThere": "Multiple locations - Huanghe Road branch most famous",
+      "hours": "6:30am - 8:30pm (varies by location)",
+      "tags": ["food", "local-favorite", "cheap", "street-food", "must-see"],
+      "bestFor": ["foodie", "budget-backpacker", "first-timer"],
+      "proTips": [
+        "Bite a small hole first and sip the soup before eating - or you'll burn yourself",
+        "Four dumplings is one serving - order two servings if hungry",
+        "The Huanghe Road location near People's Square is the classic spot",
+        "Dip in vinegar for the authentic experience"
+      ],
+      "neighborhood": "Various (flagship on Huanghe Road)",
+      "whyPick": {
+        "foodie": "Shanghai's most iconic street food. Perfectly crispy bottoms, scalding hot soup, juicy pork filling. ¥15 for a life-changing snack.",
+        "budget-backpacker": "The best meal deal in Shanghai. ¥15 buys you four perfect pan-fried dumplings that rival any restaurant in the city.",
+        "first-timer": "The quintessential Shanghai food experience. You haven't been to Shanghai until you've queued for Yang's dumplings."
+      }
+    },
+    {
+      "id": "yuyuan-bazaar",
+      "name": "Yuyuan Bazaar Street Food",
+      "type": "food",
+      "description": "The bustling bazaar surrounding Yu Garden offers a delightful mix of Shanghai street snacks, from soup dumplings to stinky tofu. While touristy, the traditional architecture and variety of foods make it a fun culinary exploration, especially for newcomers to Chinese street food.",
+      "timeNeeded": "1-2 hours",
+      "cost": "¥50-100",
+      "bestTime": "Lunch or early dinner",
+      "coordinates": { "lat": 31.2275, "lng": 121.4920 },
+      "howToGetThere": "Metro Line 10 to Yuyuan Garden",
+      "hours": "9am - 9pm",
+      "tags": ["food", "street-food", "touristy"],
+      "bestFor": ["foodie", "first-timer"],
+      "proTips": [
+        "Try the Nanxiang Xiaolong Bao (soup dumplings) at the original shop",
+        "Combine with a Yu Garden visit for a half-day old Shanghai experience",
+        "Prices are slightly inflated but still reasonable",
+        "Look for the less obvious stalls in the back alleys for better value"
+      ],
+      "neighborhood": "Huangpu District (Old Town)",
+      "whyPick": {
+        "foodie": "The original home of Shanghai soup dumplings. Nanxiang Xiaolong Bao has been serving here since 1900.",
+        "first-timer": "A photogenic food market in a traditional Chinese setting. Perfect for first-timers wanting to try a variety of snacks."
+      }
+    },
+    {
+      "id": "lost-heaven",
+      "name": "Lost Heaven",
+      "type": "food",
+      "description": "An upscale restaurant serving Yunnan minority cuisine in a stunning colonial-era building on the Bund. The food is a flavorful departure from typical Chinese restaurant fare, with dishes inspired by the Dai, Bai, and Miao ethnic minorities of southwest China.",
+      "timeNeeded": "2 hours",
+      "cost": "¥200-300 per person",
+      "bestTime": "Dinner (book ahead, request Bund-view table)",
+      "coordinates": { "lat": 31.2420, "lng": 121.4860 },
+      "howToGetThere": "Metro Line 2 to East Nanjing Road, walk to Bund",
+      "hours": "11:30am - 2pm, 5:30pm - 10:30pm",
+      "tags": ["food", "upscale", "unique", "fine-dining"],
+      "bestFor": ["foodie", "business"],
+      "proTips": [
+        "Book a table with Bund views for dinner - it's unforgettable",
+        "Try the Dai-style grilled fish and the crossing-the-bridge noodles",
+        "The cocktail bar upstairs is worth visiting too",
+        "Book at least 2-3 days ahead for weekend dinners"
+      ],
+      "neighborhood": "Huangpu District (The Bund)",
+      "whyPick": {
+        "foodie": "Yunnan minority cuisine in a stunning Bund setting. Flavors you won't find anywhere else in Shanghai - or the world.",
+        "business": "Impressive Bund-view dining for clients. Unique Yunnan cuisine sparks conversation. Book a private room for extra impact."
+      }
+    }
+  ]
+}

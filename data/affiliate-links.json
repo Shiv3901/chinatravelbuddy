@@ -1,0 +1,29 @@
+{
+  "vpn": {
+    "expressVPN": {
+      "url": "https://www.expressvpn.com/?offer=3monthsfree&a_fid=YOUR_AFFILIATE_ID",
+      "name": "ExpressVPN",
+      "commission": "$30-36",
+      "description": "Works reliably in China, 30-day money-back guarantee"
+    },
+    "nordVPN": {
+      "url": "https://nordvpn.com/YOUR_AFFILIATE_LINK",
+      "name": "NordVPN",
+      "commission": "40%",
+      "description": "Budget-friendly option with good speeds"
+    }
+  },
+  "esim": {
+    "airalo": {
+      "url": "https://www.airalo.com?ref=YOUR_REF",
+      "name": "Airalo",
+      "commission": "10%",
+      "description": "Easiest eSIM setup, works globally, activate before you fly"
+    }
+  },
+  "tripcom": {
+    "baseUrl": "https://www.trip.com?Allianceid=YOUR_ID",
+    "name": "Trip.com",
+    "commission": "5.5% hotels, 1% flights"
+  }
+}
