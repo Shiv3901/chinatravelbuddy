@@ -3,59 +3,60 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Peach - Real China Travel Guides</title>
-  <meta name="description" content="Honest travel guides for China. No ads, no affiliate links, no AI bullshit. Just real info from backpackers who actually went there.">
+  <title>Peach - China Travel Guides</title>
+  <meta name="description" content="Honest travel guides for China. No ads, no affiliate links. Real information from travelers who actually went there.">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍑</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>P</text></svg>">
 </head>
 <body>
 
-  <header class="header">
-    <a href="/" class="logo">🍑 peach</a>
-    <p class="tagline">real china travel guides. no bullshit.</p>
-  </header>
+  <div class="container-wide">
+    <header class="header">
+      <a href="/" class="logo">Peach</a>
+      <p class="tagline">Honest China travel guides. No ads, no affiliate links.</p>
+    </header>
 
-  <hr class="divider">
+    <section>
+      <h1>Find what you need</h1>
+      <div class="search-container">
+        <input
+          type="text"
+          class="search-bar"
+          id="searchInput"
+          placeholder="Search guides (e.g., 'hotpot in chongqing', 'jiuzhaigou costs')"
+          autocomplete="off"
+        >
+        <p class="search-hint">Press Enter to search</p>
+        <div class="search-results" id="searchResults">
+          <div class="search-results-header">Search Result</div>
+          <div class="search-results-content" id="searchContent"></div>
+        </div>
+      </div>
+    </section>
 
-  <div class="search-container">
-    <input
-      type="text"
-      class="search-bar"
-      id="searchInput"
-      placeholder="ask me anything about these places..."
-      autocomplete="off"
-    >
-    <div class="search-results" id="searchResults">
-      <div class="search-results-header">🍑 search result</div>
-      <div class="search-results-content" id="searchContent"></div>
-    </div>
+    <section>
+      <h2>Available Guides</h2>
+      <div class="guide-list">
+        <a href="/jiuzhaigou.html" class="guide-card">
+          <div class="guide-title">Jiuzhaigou National Park</div>
+          <div class="guide-desc">UNESCO World Heritage site in Sichuan. Turquoise lakes, waterfalls, Tibetan villages. Complete 3-day itinerary with costs and practical tips.</div>
+          <div class="guide-meta">3-day itinerary / ~$140 USD total</div>
+        </a>
+
+        <a href="/chongqing.html" class="guide-card">
+          <div class="guide-title">Chongqing Day Trip</div>
+          <div class="guide-desc">Mountain megacity with the best Sichuan hotpot in China. Cyberpunk skyline, river views, street food. Full day itinerary from morning to night.</div>
+          <div class="guide-meta">1-day itinerary / ~$45 USD total</div>
+        </a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>Written by travelers who actually went there.</p>
+      <p>No ads. No affiliate links. No tracking.</p>
+      <p>Last updated: January 2025</p>
+    </footer>
   </div>
-
-  <hr class="divider">
-
-  <section>
-    <h2>guides available:</h2>
-
-    <div class="guide-list">
-      <a href="/jiuzhaigou.html" class="guide-link">
-        <div class="guide-title">→ jiuzhaigou national park</div>
-        <div class="guide-desc">3-day itinerary, how to get there, where to stay, real costs</div>
-      </a>
-
-      <a href="/chongqing.html" class="guide-link">
-        <div class="guide-title">→ chongqing day trip</div>
-        <div class="guide-desc">hotpot spots, river views, getting around, survival tips</div>
-      </a>
-    </div>
-  </section>
-
-  <hr class="divider">
-
-  <footer class="footer">
-    <p>made by backpackers who actually went there</p>
-    <p>no ads. no affiliate links. no tracking.</p>
-    <p>last updated: january 2025</p>
-  </footer>
 
   <script src="search.js"></script>
 </body>
